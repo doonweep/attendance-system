@@ -1,2 +1,2 @@
 # project-one
-This repository is being used for academic purposes. For what purpose I do not know.
+This repository is being used for academic purposes. For what purposes I do not know.
